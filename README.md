@@ -7,6 +7,9 @@
 ### izzatbekMadaminov
 ![izzatbekMadaminov](https://github.com/izzatbekMadaminov/Mkew/blob/Mkew/photo_2021-01-25_14-39-07.jpg)
 
+### ZulfiyaXayrullaevna
+![ZulfiyaXayrullaevna](assets/img/team/Zulfiya-carbon.png)
+
 
 #### other info
 * github markdown: https://guides.github.com/features/mastering-markdown/
