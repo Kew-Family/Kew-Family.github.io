@@ -10,6 +10,8 @@
 ### ZulfiyaXayrullaevna
 ![ZulfiyaXayrullaevna](assets/img/team/Zulfiya-carbon.png)
 
+### Foydalanilgan manbalar:
+Bootstrap v5.0.0-beta1 ![Bootstrap](https://getbootstrap.com/)
 
 #### other info
 * github markdown: https://guides.github.com/features/mastering-markdown/
