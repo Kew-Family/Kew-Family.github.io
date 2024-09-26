@@ -9,9 +9,6 @@ https://kew-family.github.io/
 ### izzatbekMadaminov
 ![izzatbekMadaminov](https://github.com/izzatbekMadaminov/Mkew/blob/Mkew/photo_2021-01-25_14-39-07.jpg)
 
-### ZulfiyaXayrullaevna
-![ZulfiyaXayrullaevna](assets/img/team/Zulfiya-carbon.png)
-
 ### Foydalanilgan manbalar:
 Bootstrap v5.0.0-beta1 ![Bootstrap](https://getbootstrap.com/)
 
